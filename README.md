@@ -7,4 +7,5 @@
 
 <div align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://avatars.githubusercontent.com/u/6759993?s=280&v=4" width="40"/>
 </div>
